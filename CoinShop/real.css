@@ -1,0 +1,203 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.logo-container {
+  display: flex;
+  margin-left: 400px;
+}
+
+.logo {
+  width: 100px;
+  /* Adjust the size of your logo */
+  height: 100px;
+  /* Adjust the size of your logo */
+  border-radius: 50%;
+  /* Make the logo round */
+  /* border: 2px solid white; */
+  /* Add a white border for better visibility */
+  margin-right: 10px;
+  /* Adjust the spacing between logo and title */
+  margin-left: 10px;
+  margin-top: 24px;
+}
+
+.title {
+  font-size: 100px;
+  margin-bottom: 40px;
+  margin-top: 0px;
+  margin-left: 10px;
+  color: gold;
+}
+
+.card-title {
+  color: whitesmoke;
+}
+
+.line-1 {
+  font-size: 70px;
+  font-style: Playfair Display;
+  /* font-family: 'Caveat', cursive; */
+  text-align: center;
+}
+
+.card-group {
+  margin-top: 20px;
+}
+
+.pubg-logo {
+  border-radius: 10px;
+  width: 270px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.pubg-logo:hover {
+  transform: scale(0.9);
+}
+
+.callofduty-logo {
+  border-radius: 10px;
+  width: 270px;
+  transition: transform 0.3s ease-in-out;
+
+}
+
+.callofduty-logo:hover {
+  transform: scale(0.9);
+}
+
+.ff-logo {
+  border-radius: 10px;
+  width: 270px;
+  transition: transform 0.3s ease-in-out;
+
+}
+
+.ff-logo:hover {
+  transform: scale(0.9);
+}
+
+.coc-logo {
+  width: 270px;
+  height: auto;
+  border-radius: 25px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.coc-logo:hover {
+  transform: scale(0.9);
+}
+
+.valo-logo {
+  width: 270px;
+  height: auto;
+  border-radius: 25px;
+  transition: transform 0.3s ease-in-out;
+
+}
+
+.valo-logo:hover {
+  transform: scale(0.9);
+}
+
+.bgmi-logo {
+  width: 270px;
+  height: auto;
+  border-radius: 25px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.bgmi-logo:hover {
+  transform: scale(0.9);
+}
+
+.ft-logo {
+  width: 270px;
+  height: auto;
+  border-radius: 25px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.ft-logo:hover {
+  transform: scale(0.9);
+}
+
+
+.card-1 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  max-width: 400px;
+  margin-left: 200px;
+  margin-right: 20px;
+}
+
+.card-2 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  max-width: 400px;
+  margin-right: 20px;
+}
+
+.card-3 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  max-width: 400px;
+  margin-right: 20px;
+}
+
+.card-4 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  max-width: auto;
+}
+
+.card-5 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 200px;
+  margin-right: 20px;
+  /* max-width: 400px; */
+}
+
+.card-6 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  margin-right: 20px;
+  /* max-width: 400px; */
+}
+
+.card-7 {
+  border: 5px solid green;
+  border-radius: 10px;
+  display: inline-block;
+  /* max-width: 400px; */
+}
+
+.card-8 {
+  display: inline-block;
+  margin-left: 20px
+    /* max-width: 400px; */
+}
+
+.group-1 {
+  margin-bottom: 30px;
+}
+
+.pubga .ffa .fta .coca .coda .valoa .bgmia {
+  text-decoration: none;
+  color: white;
+}
+
+.footer {
+  text-align: center;
+  color: greenyellow;
+  margin-top: 70px;
+}
